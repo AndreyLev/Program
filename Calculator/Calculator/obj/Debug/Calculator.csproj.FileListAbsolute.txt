@@ -1,0 +1,11 @@
+c:\users\balas\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\balas\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\balas\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\balas\source\repos\Calculator\Calculator\obj\Debug\Calculator.AboutBox1.resources
